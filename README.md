@@ -1,4 +1,4 @@
-# 3d-portfilio
+# wheelerknight.com - My Personal Portolio Website
 My 3d updated personal portfolio - with React JS and 3D Graphics
 
 ----
