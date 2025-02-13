@@ -1,12 +1,8 @@
-# wheelerknight.com - My Personal Portolio Website
-My 3d updated personal portfolio - with React JS and 3D Graphics
+# React + Vite
 
-----
-wheelerknight.com
-----
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-# Documentation
+Currently, two official plugins are available:
 
-### 2/12/2025
-- Start Project
-- Initial Commit
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
